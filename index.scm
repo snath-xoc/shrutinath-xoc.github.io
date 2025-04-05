@@ -27,7 +27,7 @@
     )
 
    (section "Papers")
-   (TEXT "See " (simple-link "papers.html" "this web page") ".")
+   (TEXT "See " (simple-link "papers.html" "this web page") ".")))
 
 (define page 
   (gorg-page "Shruti Nath's Home Page" "./" page-contents))
